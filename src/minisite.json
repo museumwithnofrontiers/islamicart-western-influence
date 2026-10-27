@@ -1,6 +1,44 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/",
   "menuSecondColumnFrom": 7,
-  "curators": [],
+  "curators": [
+    {
+      "partner": "c0c2fa4f-c38c-578e-8cc1-4703cc60b8a9",
+      "logo": "legacy/TR-42.gif",
+      "space": 13
+    },
+    {
+      "name": "EGE University, Izmir",
+      "country": "tur",
+      "href": "#",
+      "logo": "legacy/TU-42.gif",
+      "space": 15
+    },
+    {
+      "partner": "f6a3053d-d710-547e-be54-96097d448f7a",
+      "logo": "legacy/SY-42.gif",
+      "space": 20
+    },
+    {
+      "partner": "33f89573-8b54-5c1a-86ba-1663e604740f",
+      "logo": "legacy/JO-42.gif",
+      "space": 23
+    },
+    {
+      "partner": "f0c1b6b9-8198-5a97-9aea-8ebedfa90ca3",
+      "logo": "legacy/ET-42.gif",
+      "space": 23
+    },
+    {
+      "partner": "ee0a71f8-dc12-5d5d-b02a-4402969e8274",
+      "logo": "legacy/TN-42.gif",
+      "space": 20
+    },
+    {
+      "partner": "d9f6c12d-ca03-5d6e-b33c-c1a37daec1fa",
+      "logo": "legacy/GL_42.gif",
+      "space": 20
+    }
+  ],
   "maps": 0
 }

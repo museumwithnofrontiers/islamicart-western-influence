@@ -1,4 +1,117 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Islamic Art's virtual exhibition Western Influence in Ottoman Lands (exhibitions/ISL/western_influence/), each file as legacy serves it, byte for byte; the curators' logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/bg_fading_left.gif",
+      "sha256": "ad59f0e42a05ffa913bfbb0390b3ae8bf52cff517cb7104e83078ad2a021addd"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/bg_fading_right.gif",
+      "sha256": "ad01048f612fb76fa7699e270a5401f9b7ca28bd2192678f7f9a710e4bece986"
+    },
+    "theme/assets/legacy/ET-42.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/ET-42.gif",
+      "sha256": "c732ef4f701e33ee68e2107e7e88a136366876f56165a1c7860619565124bcb2"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/exhibition_bg_ar.jpg",
+      "sha256": "6cc632a8cddc5a13194266c6f0c54e65dc3348536e7eda832f11ed6ae7129b05"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/exhibition_bg.jpg",
+      "sha256": "8bc6bcde251a30516f432c16eeb050cadb266cda2345b9ca0d300c681b8395dd"
+    },
+    "theme/assets/legacy/GL_42.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/GL_42.gif",
+      "sha256": "b2db8fbcd750e78a658c82de34eba89a2b7aa609808b6cc24fd03cf6f60e38aa"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/home_bg_ar.jpg",
+      "sha256": "a6cd54fa4f8aa089a730810146ae8c655824762ff023d687a0aca70cfbc3e3f2"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/home_bg.jpg",
+      "sha256": "c01a00f5d9eab653a793f509101a74dfc8ff606bc874930254499b7217e9eaf7"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/intro_bg_ar.jpg",
+      "sha256": "ed7c9467aa9ac74ae16a437f637c604af552eacb9da8fb0d891ba93cfbf7fc1a"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/intro_bg.jpg",
+      "sha256": "ed7c9467aa9ac74ae16a437f637c604af552eacb9da8fb0d891ba93cfbf7fc1a"
+    },
+    "theme/assets/legacy/JO-42.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/JO-42.gif",
+      "sha256": "d81688f006fb8737ee52008c951b45e05c92c83361c838692231107e5fb2ca32"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/logo_ar.gif",
+      "sha256": "36f7b1035282c17a08101d614e91956980508d1011358d2f379811de7baa3354"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/logo_de.gif",
+      "sha256": "b8708f8c14c4b47fdd1dc3629b3ab5e87e660e9fa8dc7857720d1d77786454ba"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/logo_en.gif",
+      "sha256": "59b5b981187add3a27f03a3092c0ee15e1ab3825ca6dd7cb3237aa1cc6020977"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/logo_es.gif",
+      "sha256": "3b0e0fafe2be405c2ef446adefbfa20c37e2a35f54e59c0d1119876935f25fee"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/logo_fr.gif",
+      "sha256": "6698d2d7764c3f9673968420cba3742c49e8551345bbd8ddd1b574a188a7184d"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/logo_it.gif",
+      "sha256": "d0b59e4ba568aabd2eae6a0aaec39333a11297b99d5fb5608b4fc9bb2c45e283"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/logo_pt.gif",
+      "sha256": "0338a5b85ad51ed1c96d1d17de0dee2880d98a845e4974f0d84df851807c0e8c"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/logo_tr.gif",
+      "sha256": "d42dc76634ed9bc69aded3708885cb999371729fd4ee8307e93ec6da55f729f0"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/western_influence/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    },
+    "theme/assets/legacy/SY-42.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/SY-42.gif",
+      "sha256": "90e7a1786b63e52d6b2400ee2277c15d4b2ce44e0f1fb1e9767529ecb2d0682a"
+    },
+    "theme/assets/legacy/TN-42.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/TN-42.gif",
+      "sha256": "54be7bda98ebdf3afe13de5757008bc9bc67c91b0f0b2c08a1061d6b3053bcac"
+    },
+    "theme/assets/legacy/TR-42.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/TR-42.gif",
+      "sha256": "05b6813f804facf5bf6605cbc96dae09b08e61ac884985b205c7f4054d9b1442"
+    },
+    "theme/assets/legacy/TU-42.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/TU-42.gif",
+      "sha256": "846e24069eb8cc38895657a7a2dab7a0292e1b7c9d8541b725af5f9d1d6a357c"
+    }
+  }
 }
